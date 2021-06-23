@@ -11,8 +11,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Conteudo tecnico Aula 2:
-  - [ ] Tela de autenticação
-  - [ ] Tela de criação de sala
+  - [x] Tela de autenticação
+  - [x] Tela de criação de sala
   - [ ] Roteamento e navegação
   - [ ] Autenticação com Firebase
   - [ ] Contextos no React
