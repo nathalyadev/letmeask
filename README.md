@@ -2,9 +2,7 @@
 <p align="center"> Proposta: Filtrar perguntas durante uma live, ou seja, os usuários poderão votar nas perguntas mais importantes e as perguntas mais votadas vão estar disponíveis em um só lugar. </p>
 
 
-
-
-<img src="" alt="projetoImg">
+<img src="https://user-images.githubusercontent.com/83317033/123151885-4eca3b00-d43a-11eb-8af4-d17c89f916af.png" alt="projetoImg">
 
 ### Ajustes e melhorias
 
@@ -13,12 +11,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Conteudo tecnico Aula 2:
   - [x] Tela de autenticação
   - [x] Tela de criação de sala
-  - [ ] Roteamento e navegação
-  - [ ] Autenticação com Firebase
-  - [ ] Contextos no React
-  - [ ] Contexto de autenticação
-  - [ ] Recuperar o estado de autenticação
-  - [ ] Criando hook de autenticação 
+  - [x] Roteamento e navegação
+  - [x] Autenticação com Firebase
+  - [x] Contextos no React
+  - [x] Contexto de autenticação
+  - [x] Recuperar o estado de autenticação
+  - [x] Criando hook de autenticação 
   - [ ] Criação de sala
   - [ ] Entrando na sala
   - [ ] Estipulando autorização
