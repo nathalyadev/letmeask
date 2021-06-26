@@ -1,0 +1,13 @@
+## 🚀 Instalando Letmeask
+
+Para instalar o Letmeask, siga estas etapas:
+
+Linux e macOS:
+```
+<comando_de_instalação>
+```
+
+Windows:
+```
+<comando_de_instalação>
+```
